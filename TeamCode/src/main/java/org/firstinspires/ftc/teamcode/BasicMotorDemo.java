@@ -1,5 +1,7 @@
 //Setup motor
 
+//With and without encoders
+
 //set power
 
 //sleep
